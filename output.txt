@@ -1,0 +1,442 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=740">
+<META NAME="description" CONTENT="The Wands suit of the Tarot, and the meanings of the 14 cards in divination according to Arthur Edward Waite.">
+<META NAME="keywords" CONTENT="tarot, divination, cartomancy, waite, minor arcana, suit, wands">
+<META NAME="Author" CONTENT="Stefan Stenudd">
+<TITLE>The Wands Suit Tarot Cards Meanings According to A. E. Waite</TITLE>
+<LINK REL=StyleSheet HREF="/allstyle.css" TYPE="text/css" MEDIA=screen>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-36426655-3', 'auto');
+  ga('send', 'pageview');
+</script>
+</HEAD>
+
+<BODY>
+
+<CENTER>
+
+<TABLE WIDTH=728 HEIGHT=168 BORDER=0 CELLSPACING=0 CELLPADDING=5 BACKGROUND="/images/tarotcardmeanings-NEW.jpg">
+<TR><TD STYLE="vertical-align:bottom">
+<A HREF="https://www.tarotcardmeanings.net"><DIV CLASS="title">TAROT</DIV>
+<DIV CLASS="titleunder">card meanings & free reading</DIV></A>
+</TD></TR></TABLE>
+<BR STYLE="line-height: 20px;">
+
+<TABLE WIDTH=730 CELLPADDING=2 CELLSPACING=0 BORDER=0>
+<TR STYLE="vertical-align:top">
+<TD BGCOLOR="#D1CCD2" HEIGHT=50><DIV CLASS="menu"><A HREF="/tarot-online/">TAROT READING</A></DIV></TD>
+<TD WIDTH=20>&nbsp;</TD>
+<TD BGCOLOR="#D1CCD2"><DIV CLASS="menu"><A HREF="/tarotcards.htm">TAROT CARDS</A></DIV></TD>
+<TD WIDTH=20>&nbsp;</TD>
+<TD BGCOLOR="#D1CCD2"><DIV CLASS="menu"><A HREF="/what-to-make-of-Tarot.htm">WHAT</A></DIV></TD>
+</TR><TR>
+<TD COLSPAN=5 HEIGHT=20></TD>
+</TR><TR>
+<TD BGCOLOR="#D1CCD2" HEIGHT=50><DIV CLASS="menu"><A HREF="/tarot-celtic-cross.htm">CELTIC CROSS</A></DIV></TD>
+<TD WIDTH=20>&nbsp;</TD>
+<TD BGCOLOR="#D1CCD2"><DIV CLASS="menu"><A HREF="/tarot-archetypes/">ARCHETYPES</A></DIV></TD>
+<TD WIDTH=20>&nbsp;</TD>
+<TD BGCOLOR="#D1CCD2"><DIV CLASS="menu"><A HREF="/tarot-speaks-to-you.htm">HOW</A></DIV></TD>
+</TR></TABLE>
+<BR STYLE="line-height: 20px;">
+
+<TABLE WIDTH=735 HEIGHT=150 BORDER=0 CELLSPANNING=0 CELLPADDING=0>
+<TR><TD STYLE="vertical-align:middle">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- RESP tarot HEAD -->
+<ins class="adsbygoogle"
+     style="display:block;max-width:730px"
+     data-ad-client="ca-pub-2247799244239227"
+     data-ad-slot="4707312730"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</TD></TR></TABLE>
+<BR STYLE="line-height: 20px;">
+
+
+
+
+
+<TABLE WIDTH=730 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR STYLE="vertical-align:top">
+<TD BGCOLOR="#FFFFFF">
+<DIV CLASS="mrg"><BR>
+
+<CENTER>
+<H1 itemprop="name">Tarot Wands According to A. E. Waite</H1>
+<IMG itemprop="image" SRC="/images/wands-mini.jpg" ALT="The Wands Tarot Suit." WIDTH=200 HEIGHT=300 BORDER=0>
+<H3>The 14 Cards of the <SPAN itemprop="genre">Tarot</SPAN> Wands Suit in Divination</H3>
+</CENTER>
+<BR>
+
+<B>Here is what the occultist Arthur Edward Waite, co-creator of the <A HREF="/rider-waite-tarot.htm">Rider-Waite Tarot deck</A>, had to say about the Wands Minor Arcana suit in divination.</B><P>
+
+<!-- Facebook LIKE: -->
+<DIV ALIGN="right"><div class="fb-like" data-width="420" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div></DIV><P><BR><BR>
+
+<CENTER>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- RESP tarot TXT -->
+<ins class="adsbygoogle"
+     style="display:block;max-width:600px"
+     data-ad-client="ca-pub-2247799244239227"
+     data-ad-slot="6184045936"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</CENTER>
+<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-01.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-01.jpg" ALT="Tarot Minor Arcana card: Ace of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="1">Ace of Wands</A></H2>
+
+<H3>Description:</H3>
+A hand issuing from a cloud grasps a stout wand or club.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+Creation, invention, enterprise, the powers which result in these; principle, beginning, source; birth, family, origin, and in a sense the virility which is behind them; the starting point of enterprises; according to another account, money, fortune, inheritance.<P><BR>
+
+<B><I>Reversed:</I></B> Fall, decadence, ruin, perdition, to perish also a certain clouded joy.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+Calamities of all kinds.<P><BR>
+
+<B><I>Reversed:</I></B> A sign of birth.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-02.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-02.jpg" ALT="Tarot Minor Arcana card: Two of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="2">Two of Wands</A></H2>
+
+<H3>Description:</H3>
+A tall man looks from a battlemented roof over sea and shore; he holds a globe in his right hand, while a staff in his left rests on the battlement; another is fixed in a ring. The Rose and Cross and Lily should be noticed on the left side.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+Between the alternative readings there is no marriage possible; on the one hand, riches, fortune, magnificence; on the other, physical suffering, disease, chagrin, sadness, mortification. The design gives one suggestion; here is a lord overlooking his dominion and alternately contemplating a globe; it looks like the malady, the mortification, the sadness of Alexander amidst the grandeur of this world's wealth.<P><BR>
+
+<B><I>Reversed:</I></B> Surprise, wonder, enchantment, emotion, trouble, fear.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+A young lady may expect trivial disappointments.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-03.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-03.jpg" ALT="Tarot Minor Arcana card: Three of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="3">Three of Wands</A></H2>
+
+<H3>Description:</H3>
+A calm, stately personage, with his back turned, looking from a cliff's edge at ships passing over the sea. Three staves are planted in the ground, and he leans slightly on one of them.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+He symbolizes established strength, enterprise, effort, trade, commerce, discovery; those are his ships, bearing his merchandise, which are sailing over the sea. The card also signifies able co-operation in business, as if the successful merchant prince were looking from his side towards yours with a view to help you.<P><BR>
+
+<B><I>Reversed:</I></B> The end of troubles, suspension or cessation of adversity, toil and disappointment.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+A very good card; collaboration will favour enterprise.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-04.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-04.jpg" ALT="Tarot Minor Arcana card: Four of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="4">Four of Wands</A></H2>
+
+<H3>Description:</H3>
+From the four great staves planted in the foreground there is a great garland suspended; two female figures uplift nosegays; at their side is a bridge over a moat, leading to an old manorial house.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+They are for once almost on the surface - country life, haven of refuge, a species of domestic harvest-home, repose, concord, harmony, prosperity, peace, and the perfected work of these.<P><BR>
+
+<B><I>Reversed:</I></B> The meaning remains unaltered; it is prosperity, increase, felicity, beauty, embellishment.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+Unexpected good fortune.<P><BR>
+
+<B><I>Reversed:</I></B> A married woman will have beautiful children.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-05.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-05.jpg" ALT="Tarot Minor Arcana card: Five of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="5">Five of Wands</A></H2>
+
+<H3>Description:</H3>
+A posse of youths, who are brandishing staves, as if in sport or strife. It is mimic warfare, and hereto correspond the<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+Imitation, as, for example, sham fight, but also the strenuous competition and struggle of the search after riches and fortune. In this sense it connects with the battle of life. Hence some attributions say that it is a card of gold, gain, opulence.<P><BR>
+
+<B><I>Reversed:</I></B> Litigation, disputes, trickery, contradiction.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+Success in financial speculation.<P><BR>
+
+<B><I>Reversed:</I></B> Quarrels may be turned to advantage.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-06.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-06.jpg" ALT="Tarot Minor Arcana card: Six of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="6">Six of Wands</A></H2>
+
+<H3>Description:</H3>
+A laurelled horseman bears one staff adorned with a laurel crown; footmen with staves are at his side.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+The card has been so designed that it can cover several significations; on the surface, it is a victor triumphing, but it is also great news, such as might be carried in state by the King's courier; it is expectation crowned with its own desire, the crown of hope, and so forth.<P><BR>
+
+<B><I>Reversed:</I></B> Apprehension, fear, as of a victorious enemy at the gate; treachery, disloyalty, as of gates being opened to the enemy; also indefinite delay.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+Servants may lose the confidence of their masters; a young lady may be betrayed by a friend.<P><BR>
+
+<B><I>Reversed:</I></B> Fulfilment of deferred hope.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-07.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-07.jpg" ALT="Tarot Minor Arcana card: Seven of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="7">Seven of Wands</A></H2>
+
+<H3>Description:</H3>
+A young man on a craggy eminence brandishing a staff; six other staves are raised towards him from below.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business - negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him.<P><BR>
+
+<B><I>Reversed:</I></B> Perplexity, embarrassments, anxiety. It is also a caution against indecision.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+A dark child.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-08.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-08.jpg" ALT="Tarot Minor Arcana card: Eight of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="8">Eight of Wands</A></H2>
+
+<H3>Description:</H3>
+The card represents motion through the immovable-a flight of wands through an open country; but they draw to the term of their course. That which they signify is at hand; it may be even on the threshold.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; generally, that which is on the move; also the arrows of love.<P><BR>
+
+<B><I>Reversed:</I></B> Arrows of jealousy, internal dispute, stingings of conscience, quarrels; and domestic disputes for persons who are married.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+Domestic disputes for a married person.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-09.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-09.jpg" ALT="Tarot Minor Arcana card: Nine of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="9">Nine of Wands</A></H2>
+
+<H3>Description:</H3>
+The figure leans upon his staff and has an expectant look, as if awaiting an enemy. Behind are eight other staves - erect, in orderly disposition, like a palisade.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+The card signifies strength in opposition. If attacked, the person will meet an onslaught boldly; and his build shews, that he may prove a formidable antagonist. With this main significance there are all its possible adjuncts - delay, suspension, adjournment.<P><BR>
+
+<B><I>Reversed:</I></B> Obstacles, adversity, calamity.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+Generally speaking, a bad card.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-10.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-10.jpg" ALT="Tarot Minor Arcana card: Ten of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="10">Ten of Wands</A></H2>
+
+<H3>Description:</H3>
+A man oppressed by the weight of the ten staves which he is carrying.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+A card of many significances, and some of the readings cannot be harmonized. I set aside that which connects it with honour and good faith. The chief meaning is oppression simply, but it is also fortune, gain, any kind of success, and then it is the oppression of these things. It is also a card of false-seeming, disguise, perfidy. The place which the figure is approaching may suffer from the rods that he carries. Success is stultified if the Nine of Swords follows, and if it is a question of a lawsuit, there will be certain loss.<P><BR>
+
+<B><I>Reversed:</I></B> Contrarieties, difficulties, intrigues, and their analogies.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+Difficulties and contradictions, if near a good card.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-11.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-11.jpg" ALT="Tarot Minor Arcana card: Page of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="11">Page of Wands</A></H2>
+
+<H3>Description:</H3>
+In a scene similar to the former, a young man stands in the act of proclamation. He is unknown but faithful, and his tidings are strange.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+Dark young man, faithful, a lover, an envoy, a postman. Beside a man, he will bear favourable testimony concerning him. A dangerous rival, if followed by the Page of Cups. Has the chief qualities of his suit. He may signify family intelligence.<P><BR>
+
+<B><I>Reversed:</I></B> Anecdotes, announcements, evil news. Also indecision and the instability which accompanies it.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+Young man of family in search of young lady.<P><BR>
+
+<B><I>Reversed:</I></B> Bad news.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-12.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-12.jpg" ALT="Tarot Minor Arcana card: Knight of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="12">Knight of Wands</A></H2>
+
+<H3>Description:</H3>
+He is shewn as if upon a journey, armed with a short wand, and although mailed is not on a warlike errand. He is passing mounds or pyramids. The motion of the horse is a key to the character of its rider, and suggests the precipitate mood, or things connected therewith.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+Departure, absence, flight, emigration. A dark young man, friendly. Change of residence.<P><BR>
+
+<B><I>Reversed:</I></B> Rupture, division, interruption, discord.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+A bad card; according to some readings, alienation.<P><BR>
+
+<B><I>Reversed:</I></B> For a woman, marriage, but probably frustrated.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-13.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-13.jpg" ALT="Tarot Minor Arcana card: Queen of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="13">Queen of Wands</A></H2>
+
+<H3>Description:</H3>
+The Wands throughout this suit are always in leaf, as it is a suit of life and animation. Emotionally and otherwise, the Queen's personality corresponds to that of the King, but is more magnetic.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+A dark woman, countrywoman, friendly, chaste, loving, honourable. If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money, or a certain success in business.<P><BR>
+
+<B><I>Reversed:</I></B> Good, economical, obliging, serviceable. Signifies also - but in certain positions and in the neighbourhood of other cards tending in such directions - opposition, jealousy, even deceit and infidelity.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+A good harvest, which may be taken in several senses.<P><BR>
+
+<B><I>Reversed:</I></B> Goodwill towards the Querent, but without the opportunity to exercise it.<P><BR><BR>
+
+<A HREF="/images/tarotcards-large/tarot-wands-14.jpg"><IMG SRC="/images/tarotcards120px/tarot-wands-14.jpg" ALT="Tarot Minor Arcana card: King of Wands" WIDTH=120 HEIGHT=198 HSPACE=25 VSPACE=5 BORDER=1 ALIGN="right"></A>
+<H2><A NAME="14">King of Wands</A></H2>
+
+<H3>Description:</H3>
+The physical and emotional nature to which this card is attributed is dark, ardent, lithe, animated, impassioned, noble. The King uplifts a flowering wand, and wears, like his three correspondences in the remaining suits, what is called a cap of maintenance beneath his crown. He connects with the symbol of the lion, which is emblazoned on the back of his throne.<P><BR>
+
+<B><I>Divinatory Meanings:</I></B><BR>
+Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.<P><BR>
+
+<B><I>Reversed:</I></B> Good, but severe; austere, yet tolerant.<P><BR>
+
+<B><I>Additional meanings:</I></B><BR>
+Generally favourable may signify a good marriage.<P><BR>
+
+<B><I>Reversed:</I></B> Advice that should be followed.<P>
+<BR>
+
+<CENTER><H3><A HREF="/minorarcana/tarot-wands.htm">More about the Wands Tarot suit</A></H3></CENTER><P>
+
+<BR><BR>
+
+<H2><A HREF="/waite-tarot-comments/">The Tarot Minor Arcana According to A. E. Waite</A></H2>
+<UL>
+<LI><B><A HREF="waite-on-tarot-wands.htm">Wands</A></B><P>
+<LI><B><A HREF="waite-on-tarot-pentacles.htm">Pentacles</A></B><P>
+<LI><B><A HREF="waite-on-tarot-cups.htm">Cups</A></B><P>
+<LI><B><A HREF="waite-on-tarot-swords.htm">Swords</A></B><P>
+</UL>
+
+<BR>
+<CENTER><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- RESP tarot LINK -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2247799244239227"
+     data-ad-slot="5362487025"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></CENTER>
+<BR><BR>
+
+<div class="fb-comments" data-href="https://www.tarotcardmeanings.net/waite-tarot-comments/waite-on-tarot-wands.htm" data-width="100%" data-numposts="3" data-colorscheme="light" data-order-by="reverse_time"></div>
+
+<BR>
+
+
+<HR SIZE=5>
+
+<H3><CENTER>The Book</CENTER></H3>
+<H2><a href="http://www.amazon.com/exec/obidos/ASIN/1514197286/stefanstenudd"><IMG SRC="/images/books/Tarot-unfolded-160.jpg" ALT="Tarot Unfolded. Book by Stefan Stenudd." WIDTH=160 HEIGHT=240 BORDER=1 ALIGN="right" HSPACE=25>
+Tarot Unfolded</A></H2>
+This book presents all the 78 Tarot card images and their allegorical symbols. Several divination spreads are also explained. The book will help you find your own intuitive way of making inspired Tarot card readings. <I>Click the image to see the book at Amazon.</I><P>
+	<CENTER><A HREF="/tarot-unfolded.htm"><B>More about the book here.</B></A></CENTER>
+
+<HR SIZE=3>
+<H3><A HREF="/cookies.htm">About Cookies</A></H3>
+
+
+<HR SIZE=5>
+
+<TABLE WIDTH=200 HEIGHT=620 BORDER=0 CELLSPACING=0 CELLPADDING=0 ALIGN="right">
+<TR VALIGN="top"><TD>
+<DIV ALIGN="right">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- RESP tarot HEAD -->
+<ins class="adsbygoogle"
+     style="display:block;max-width:160px"
+     data-ad-client="ca-pub-2247799244239227"
+     data-ad-slot="4707312730"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</DIV>
+</TD></TR></TABLE>
+
+<H2>My Other Websites:</H2>
+<BR>
+
+<H3><A HREF="https://www.iching-online.com">I Ching Online</A></H3>
+The 64 hexagrams of the Chinese classic <B>I Ching</B> and what they mean in divination. Free online reading.<P>
+
+<HR SIZE=1>
+
+<H3><A HREF="https://www.completehoroscope.org">Complete Horoscope</A></H3>
+How predictions are done in classical astrology with the full horoscope chart. Many examples.<P>
+
+<HR SIZE=1>
+
+<H3><A HREF="https://www.creationmyths.org/">Creation Myths</A></H3>
+Creation stories from around the world, and the ancient beliefs about the world and the gods as revealed by the myths.<P>
+
+<HR SIZE=5>
+
+<H3>Other Books of Mine</H3>
+
+<a href="http://www.amazon.com/exec/obidos/ASIN/1514210517/stefanstenudd"><IMG SRC="/images/books/health-horoscope-160.jpg" ALT="Your Health in Your Horoscope. Book by Stefan Stenudd." WIDTH=160 HEIGHT=240 BORDER=1 ALIGN="right" HSPACE=25>
+<H2>Your Health in Your Horoscope</H2></A>
+What the horoscope says about your health, according to the old tradition of medical astrology. <I>Click the image to see the book (and Kindle ebook) at Amazon.</I><BR CLEAR="all"><P>
+
+<HR SIZE=1>
+
+<a href="http://www.amazon.com/exec/obidos/ASIN/1517212995/stefanstenudd"><IMG SRC="/images/books/life-energy-encyclopedia-160.jpg" ALT="Life Energy Encyclopedia. Book by Stefan Stenudd." WIDTH=160 HEIGHT=240 BORDER=1 ALIGN="right" HSPACE=25><BR>
+<H2>Life Energy Encyclopedia</H2></A>
+Qi, prana, spirit, pneuma, and many other life forces around the world explained and compared. <I>Click the image to see the book at Amazon.</I><BR CLEAR="all"><P>
+
+<HR SIZE=1>
+
+<a href="http://www.amazon.com/exec/obidos/ASIN/9178940931/stefanstenudd"><IMG SRC="/images/books/FakeLaoTzuQuotes-160.jpg" ALT="Fake Lao Tzu Quotes - Erroneous Tao Te Ching Citations Examined. Book by Stefan Stenudd." WIDTH=160 HEIGHT=240 BORDER=1 ALIGN="right" HSPACE=25>
+<H2>Fake Lao Tzu Quotes</H2></A>
+Erroneous Tao Te Ching Citations Examined. 90 of the most spread false Lao Tzu quotes, why they are false and where they are really from. <I>Click the image to see the book at Amazon.</I><BR CLEAR="all"><P>
+
+<HR SIZE=5>
+
+<H2><A HREF="https://www.stenudd.com"><IMG SRC="/images/StefanStenudd-2017.jpg" ALT="Stefan Stenudd, Swedish author of fiction and non-fiction." WIDTH=160 HEIGHT=199 BORDER=1 ALIGN="right" HSPACE=25>
+Stefan Stenudd</A></H2>
+<BR>
+<H3>About me</H3>
+I'm a Swedish author. In addition to fiction, I've written books about the Tarot, Taoism, astrology and other metaphysical traditions. I'm also an historian of ideas, researching ancient mythology. <I>Click the image to get to my personal website.</I><BR>
+<CENTER><H3><A HREF="/contact.htm">Contact</A></H3></CENTER>
+<P><BR>
+
+
+</DIV>
+</td>
+</TR>
+</TABLE>
+
+</CENTER>
+<BR><BR>
+
+<!-- For Facebook: -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!--- Amazon OneTag code - start 2018-01-26 --->
+<div id="amzn-assoc-ad-fdd29e23-ffd0-4712-a94b-df556a53bd4d"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=fdd29e23-ffd0-4712-a94b-df556a53bd4d"></script>
+
+</BODY>
+</HTML>
