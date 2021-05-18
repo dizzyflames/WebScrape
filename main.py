@@ -57,14 +57,8 @@ def sortedFolderFiles(dir):
 # accepts nothing and returns nothing
 # used for major arcana with different layout
 def getMajorArcana():
-    #filenames = getFileNames("cards")
-    #f = []
-    #filenames.sort(key=sortByNum)
-    #for fName in filenames:
-    #    start = findOccurrence(fName, ".", 1)
-    #    end = findOccurrence(fName, ".", 2)
-    #    f.append(fName[start + 1: end])
     f = sortedFolderFiles("cards")
+
     # all major arcanas
     f = f[:22]
     urlString = []
