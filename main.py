@@ -1,6 +1,6 @@
 import requests
 import os
-
+import re
 
 # This is a sample Python script.
 
@@ -42,20 +42,29 @@ def getFileNames(dir):
 def sortByNum(e):
     return int(e.split(".")[0])
 
-
-# scraping tarot meanings here https://www.tarotcardmeanings.net/waite-tarot-comments/
-# will use file names to create urls to scrap from
-# accepts nothing and returns nothing
-# used for major arcana with different layout
-def getMajorArcana():
-    filenames = getFileNames("cards")
+def sortedFolderFiles(dir):
+    filenames = getFileNames(dir)
     f = []
     filenames.sort(key=sortByNum)
     for fName in filenames:
         start = findOccurrence(fName, ".", 1)
         end = findOccurrence(fName, ".", 2)
         f.append(fName[start + 1: end])
+    return f
 
+# scraping tarot meanings here https://www.tarotcardmeanings.net/waite-tarot-comments/
+# will use file names to create urls to scrap from
+# accepts nothing and returns nothing
+# used for major arcana with different layout
+def getMajorArcana():
+    #filenames = getFileNames("cards")
+    #f = []
+    #filenames.sort(key=sortByNum)
+    #for fName in filenames:
+    #    start = findOccurrence(fName, ".", 1)
+    #    end = findOccurrence(fName, ".", 2)
+    #    f.append(fName[start + 1: end])
+    f = sortedFolderFiles("cards")
     # all major arcanas
     f = f[:22]
     urlString = []
@@ -88,31 +97,38 @@ def getMajorArcana():
 # 65 - 78 swords
 # accepts nothing and returns nothing
 # scrapes the meaning of the minor arcana cards from a website
-# layout:
-#   meaning
-#   reversed
-#   additional meaning
-#   reversed (optional)
 def getMinorArcana():
     wands = "https://www.tarotcardmeanings.net/waite-tarot-comments/waite-on-tarot-wands.htm"
     pentacles = "https://www.tarotcardmeanings.net/waite-tarot-comments/waite-on-tarot-pentacles.htm"
     cups = "https://www.tarotcardmeanings.net/waite-tarot-comments/waite-on-tarot-cups.htm"
     swords = "https://www.tarotcardmeanings.net/waite-tarot-comments/waite-on-tarot-swords.htm"
-    res = requests.get(wands)
-    indicesStart = []
-    for i in range(1, 15):
-        indicesStart.append(findOccurrence(res.text, "Divinatory Meanings:", i))
-    wandMeanings = []
-    # for i in range[0, len(indicesStart)]:
-    #     wandMeanings.append(res.text[indicesStart[0]:indicesStart[1] - 1])
-    with open("output.txt", "w") as file:
-        file.write(res.text)
-    pass
+    files = sortedFolderFiles("cards")
 
+    res = requests.get(wands)
+    k = 1
+    pattern = r'\<.*?\>.*?\<\/.*?\>'
+    for i in range(22, 78):
+        if i == 36:
+            res = requests.get(pentacles)
+            k = 1
+        elif i == 50:
+            res = requests.get(cups)
+            k = 1
+        elif i == 64:
+            res = requests.get(swords)
+            k = 1
+
+        with open("meanings/" + str(i) + "." + files[i] + ".txt", "w") as file:
+            output = res.text[findOccurrence(res.text, "Divinatory Meanings", k):findOccurrence(res.text,"<A HREF", k + 9)]
+            output = output[33:]
+            output = re.sub(pattern, '', output)
+            output = re.sub('\<.*?\>', '', output)
+            output = output.replace("\n\n\n", "\n\n")
+            output = output.replace("\n ", "\n")
+            file.write(output)
+            k += 1
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    #getMajorArcana()
+    getMajorArcana()
     getMinorArcana()
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
