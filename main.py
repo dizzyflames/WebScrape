@@ -119,6 +119,7 @@ def getMinorArcana():
             output = re.sub('\<.*?\>', '', output)
             output = output.replace("\n\n\n", "\n\n")
             output = output.replace("\n ", "\n")
+            output = output.rstrip()
             file.write(output)
             k += 1
 
