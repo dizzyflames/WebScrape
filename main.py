@@ -82,7 +82,7 @@ def getMajorArcana():
 
         # writes the text to a text file
         with open("meanings/" + str(i) + "." + f[i] + ".txt", "w") as file:
-            file.write(s[:x] + "\n\n" + s[y + 4:])
+            file.write(s[:x] + "\n" + s[y + 4:])
         i += 1
 
 # 22 - 35 wands
@@ -117,8 +117,8 @@ def getMinorArcana():
             output = output[33:]
             output = re.sub(pattern, '', output)
             output = re.sub('\<.*?\>', '', output)
-            output = output.replace("\n\n\n", "\n\n")
-            output = output.replace("\n ", "\n")
+            output = output.replace("\n\n\n", "\n")
+            output = output.replace("\n ", "")
             output = output.rstrip()
             file.write(output)
             k += 1
